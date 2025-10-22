@@ -205,10 +205,7 @@ function App() {
             Sistema de leitura de runas Elder Futhark com sorteio criptograficamente seguro
           </p>
           <p className="text-xs opacity-75">
-            As runas não predizem o futuro, mas oferecem perspectivas para reflexão 
-          </p>
-           <p className="text-xs opacity-75">
-            Feito por Julio Campos Machado com ❤
+            As runas não predizem o futuro, mas oferecem perspectivas para reflexão
           </p>
         </footer>
       </div>
